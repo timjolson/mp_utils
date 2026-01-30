@@ -6,7 +6,7 @@ setup(
     version="0.5",
     description='python3 utils for multiprocessing',
     author = 'timjolson',
-    author_email = 'timjolson@user.noreply.github.com',
+    author_email = '5532473+timjolson@users.noreply.github.com',
     packages=find_packages(),
     tests_require=['pytest'],
 )
