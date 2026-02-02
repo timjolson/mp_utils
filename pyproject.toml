@@ -1,0 +1,11 @@
+[project]
+name = "mp_utils"
+version = "0.5"
+description = "python3 utils for multiprocessing"
+authors = [
+    { name = "timjolson", email = "timjolson@users.noreply.github.com" }
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
